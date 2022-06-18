@@ -1,1 +1,4 @@
+# executable files
 *.exe
+# vscode files
+.vscode
