@@ -1,4 +1,4 @@
 # executable files
 *.exe
 # vscode files
-.vscode
+.vscode/*.json
